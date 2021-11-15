@@ -5,7 +5,7 @@ Create and Edit Global and Local Gateways for v4.3
 Requires [Monster UI v.4.3](https://github.com/2600hz/monster-ui)
 
 #### Installation instructions:
-1. Copy the accounts app to your apps directory
+1. Copy the resources app to your apps directory
 2. Register the resource app
 ```bash
 # sup crossbar_maintenance init_app PATH_TO_RESOURCE_DIRECTORY API_ROOT
